@@ -39,7 +39,7 @@ html {
 
 .hero{
     height: 100vh;
-    background-image: var(--background), url('../ProyectoDA/img/img1.1.jpg');
+    background-image: var(--background), url('img/img1.1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
